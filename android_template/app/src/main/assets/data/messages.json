@@ -1,0 +1,110 @@
+[
+  {
+    "messageId": "msg_001",
+    "senderId": "user_001",
+    "receiverId": "user_002",
+    "content": "你好，李四！最近怎么样？",
+    "timestamp": 1729000000000,
+    "isSent": true,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_002",
+    "senderId": "user_002",
+    "receiverId": "user_001",
+    "content": "挺好的！你呢？",
+    "timestamp": 1729000060000,
+    "isSent": true,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_003",
+    "senderId": "user_001",
+    "receiverId": "user_002",
+    "content": "我也不错，周末一起吃饭吗？",
+    "timestamp": 1729000120000,
+    "isSent": true,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_004",
+    "senderId": "user_001",
+    "receiverId": "user_003",
+    "content": "王五，明天的会议准备好了吗？",
+    "timestamp": 1729010000000,
+    "isSent": true,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_005",
+    "senderId": "user_003",
+    "receiverId": "user_001",
+    "content": "准备好了，PPT已经做完了",
+    "timestamp": 1729010060000,
+    "isSent": true,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_006",
+    "senderId": "user_001",
+    "receiverId": "user_003",
+    "content": "太好了，发我看看",
+    "timestamp": 1729010120000,
+    "isSent": false,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_007",
+    "senderId": "user_004",
+    "receiverId": "user_001",
+    "content": "张三，收到我发的文件了吗？",
+    "timestamp": 1729020000000,
+    "isSent": true,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_008",
+    "senderId": "user_001",
+    "receiverId": "user_004",
+    "content": "收到了，谢谢！",
+    "timestamp": 1729020060000,
+    "isSent": false,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_009",
+    "senderId": "user_001",
+    "receiverId": "user_005",
+    "content": "孙七，周末爬山吗？",
+    "timestamp": 1729030000000,
+    "isSent": true,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_010",
+    "senderId": "user_005",
+    "receiverId": "user_001",
+    "content": "好啊！几点出发？",
+    "timestamp": 1729030060000,
+    "isSent": true,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_011",
+    "senderId": "user_001",
+    "receiverId": "user_005",
+    "content": "早上8点，老地方集合",
+    "timestamp": 1729030120000,
+    "isSent": false,
+    "messageType": "TEXT"
+  },
+  {
+    "messageId": "msg_012",
+    "senderId": "user_002",
+    "receiverId": "user_001",
+    "content": "看这张照片！",
+    "timestamp": 1729040000000,
+    "isSent": true,
+    "messageType": "IMAGE"
+  }
+]

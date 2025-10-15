@@ -1,0 +1,37 @@
+[
+  {
+    "userId": "user_001",
+    "username": "zhangsan",
+    "avatar": "avatar_001.png",
+    "nickname": "张三",
+    "signature": "生活不止眼前的苟且，还有诗和远方"
+  },
+  {
+    "userId": "user_002",
+    "username": "lisi",
+    "avatar": "avatar_002.png",
+    "nickname": "李四",
+    "signature": "做最好的自己"
+  },
+  {
+    "userId": "user_003",
+    "username": "wangwu",
+    "avatar": "avatar_003.png",
+    "nickname": "王五",
+    "signature": "keep moving forward"
+  },
+  {
+    "userId": "user_004",
+    "username": "zhaoliu",
+    "avatar": "avatar_004.png",
+    "nickname": "赵六",
+    "signature": "热爱生活，享受当下"
+  },
+  {
+    "userId": "user_005",
+    "username": "sunqi",
+    "avatar": "avatar_005.png",
+    "nickname": "孙七",
+    "signature": "心向阳光，无畏悲伤"
+  }
+]
